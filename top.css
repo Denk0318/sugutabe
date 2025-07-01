@@ -47,7 +47,7 @@
 /*top*/
 .section-top__img-area {
   padding: 150px 0 150px;
-  background-image: url("assets/image/top/top-image-sp.png");
+  background-image: url("top-image-sp.png");
   background-size: cover;
 }
 .section-top h1 {
@@ -88,7 +88,7 @@
 @media screen and (min-width: 760px) {
   .section-top__img-area {
     padding: 220px 0 220px;
-    background-image: url("assets/image/top/top-image.png");
+    background-image: url("top-image.png");
     background-position: center;
   }
   .section-top h1 {
