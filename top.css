@@ -251,7 +251,7 @@
 }
 /*スグ食べとは*/
 .section-description {
-  background-image: url("assets/image/AdobeStock_283859069.jpeg");
+  background-image: url("AdobeStock_283859069.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -418,7 +418,7 @@
 /*登録農家*/
 .section-farmer {
   padding: 40px 30px 60px;
-  background-image: url("assets/image/AdobeStock_283859069.jpeg");
+  background-image: url("AdobeStock_283859069.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -716,7 +716,7 @@
 /*トライアルセット*/
 .section-trial {
   padding-bottom: 60px;
-  background-image: url("assets/image/AdobeStock_283859069.jpeg");
+  background-image: url("AdobeStock_283859069.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -732,7 +732,7 @@
   letter-spacing: 1px;
 }
 .section-trial__title-wrapper {
-  background-image: url("assets/image/trial/bg-img.png");
+  background-image: url("bg-img.png");
   background-position: center;
   background-size: cover;
   margin-bottom: 20px;
